@@ -1,6 +1,6 @@
 import javax.swing.JFrame;
 
-public class test {
+public class GUI {
     public static void main(String[] args) {
         JFrame frame = new JFrame(); // creates a new frame
         frame.setTitle("CHESS!?!!?!?!"); // title of the frame
