@@ -8,5 +8,6 @@ public class GUI {
         frame.setResizable(false); // prevent frame resizing
         frame.setSize(420,420); // sets x y ratio of frame
         frame.setVisible(true); // makes frame visible
+        frame.setVisible(false); // test making it invisible
     }
 }
